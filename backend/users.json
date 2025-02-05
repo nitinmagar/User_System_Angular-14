@@ -1,0 +1,32 @@
+[
+  {
+    "name": "nitin",
+    "email": "nitin@g",
+    "role": "Admin"
+  },
+  {
+    "name": "ram",
+    "email": "ram@gmail.com",
+    "role": "User"
+  },
+  {
+    "name": "sam",
+    "email": "sam@gmail.com",
+    "role": "User"
+  },
+  {
+    "name": "rinki",
+    "email": "rinki@gmail.com",
+    "role": "User"
+  },
+  {
+    "name": "rima",
+    "email": "rima@gmail.com",
+    "role": "User"
+  },
+  {
+    "name": "kabir",
+    "email": "kabir@gmail.com",
+    "role": "User"
+  }
+]
